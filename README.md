@@ -158,4 +158,4 @@ The source project can also run on Linux/macOS according to the project document
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY.git
+git clone https://github.com/SREEDHAR-VIJAY/DRONE-SIMULATOR.git
